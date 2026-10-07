@@ -45,7 +45,7 @@ Mỗi ứng dụng chạy độc lập. Trang này chỉ là hub liên kết, c�
 | App | Link |
 |-----|------|
 | KC BTCT TCVN 5574:2018 | [tinhkcbtct-5574-2018.vercel.app](https://tinhkcbtct-5574-2018.vercel.app) |
-| Bê tông Pro | [tinhketcau_pro.vercel.app](https://tinhketcau_pro.vercel.app) |
+| Bê tông Pro | [tinhketcau-pro.vercel.app](https://tinhketcau-pro.vercel.app) |
 | KC Dầm (Lovable) | [bangtinhdam55742018.lovable.app](https://bangtinhdam55742018.lovable.app) |
 | KC Cột – Móng (Lovable) | [cotbtct5574-2018.lovable.app](https://cotbtct5574-2018.lovable.app) |
 | KC BTCT (AppDeploy) | [cot-btct-v1-ft6vjo.v2.appdeploy.ai](https://cot-btct-v1-ft6vjo.v2.appdeploy.ai) |
